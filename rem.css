@@ -1,0 +1,13 @@
+html {
+    font-size: 62.5%;
+}
+
+article {
+    font-size: 4rem;
+    border: 2px solid paleturquoise;
+}
+
+p {
+    margin: 1em;
+    border: 1px dotted gray;
+}
